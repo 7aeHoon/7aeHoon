@@ -12,11 +12,12 @@
 
   ## 📚 Tech Stack 📚  
   **💻 Languages & Frameworks**  
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NodeJs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="28"/>
+</div>
   
   **🛠️ Tools & Databases**  
   <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -33,7 +34,7 @@
 
   ## ✨ Stats & Achievements ✨  
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JaeHoon97&show_icons=true&theme=vue" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JaeHoon97&show_icons=true&theme=solarized-light" height="165" />
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stitch8971" height="165"/>
   </div>
 
