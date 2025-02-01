@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F1E5D1,100:FAF3E0&height=180&section=header&text=Welcome!%20👋&fontColor=373A40&fontSize=45&fontAlignY=35)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,100:7FDB92&height=180&section=header&text=Welcome!%20👋&fontColor=373A40&fontSize=45&fontAlignY=35)
 
   <br>
 
@@ -39,5 +39,5 @@
 
   <br>
 
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FAF3E0,100:F1E5D1&height=120&section=footer)
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7FDB92,100:91EAE4&height=120&section=footer)
 </div>
