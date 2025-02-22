@@ -4,13 +4,13 @@
 
   <br>
 
-  # 🚀 7aeHoon's GitHub 🚀
+  #  7aeHoon's GitHub 
   **"Consistent learning and problem-solving lead to success!"**  
-  꾸준한 학습과 문제 해결을 통해 성장하는 개발자의 공간입니다. 😊  
+  꾸준한 학습과 문제 해결을 통해 성장하는 개발자입니다. 😊  
 
   <br>
 
-  ## 📚 Tech Stack 📚  
+  ## Tech Stack 📚  
   **💻 Languages & Frameworks**  
 <div align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" height="28"/>
@@ -26,13 +26,13 @@
   
   <br><br>
 
-  ## 💌 Contacts 💌  
+  ## Contacts 💌  
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stitch8971@gachon.ac.kr)
   [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:kttyj000@naver.com)
 
   <br>
 
-  ## ✨ Stats & Achievements ✨  
+  ## Stats & Achievements ✨  
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JaeHoon97&show_icons=true&theme=solarized-light" height="165" />
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stitch8971" height="165"/>
