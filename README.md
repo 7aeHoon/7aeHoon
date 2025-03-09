@@ -4,7 +4,7 @@
 >
  
 ### 📚 Tech
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" height="23"/> <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=apple&logoColor=white" height="23"/> <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white" height="23"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" height="23"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="23"/> <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="23"/> 
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" height="23"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=UIkit&logoColor=white" height="23"/> <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white" height="23"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" height="23"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="23"/> <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="23"/> 
 
 
 ### 💌 Contacts
