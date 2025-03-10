@@ -8,7 +8,7 @@
 <br>
 
 <a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F7aeHoon%2Fhit-counter&count_bg=%23FF2A4B&title_bg=%23444444&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" height="22">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F7aeHoon%2Fhit-counter&count_bg=%23FF2A4B&title_bg=%23444444&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" height="20">
 </a>
  
 #### 🛠️ Tech
@@ -22,4 +22,4 @@
 </a>
 
 #### ✨ Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7aeHoon&layout=compact&theme=dracula" alt="Top Langs" height="130"> <img src="https://github-readme-stats.vercel.app/api?username=JaeHoon97&show_icons=true&theme=solarized-light" height="130" /> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stitch8971" height="130"/>
+<img src="https://github-readme-stats.vercel.app/api?username=7aeHoon&show_icons=true&theme=dracula" height="130" /> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stitch8971" height="130"/>
