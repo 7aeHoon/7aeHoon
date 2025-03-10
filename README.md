@@ -1,8 +1,13 @@
 ### Hi There 👋 <br> I'm 7aeHoon  
+
 > I'm currently interested in iOS Development.    
 > I enjoy learning new things and connecting with people.    
 >
 > Dept. Computer Science & Engineering. (2021.03 ~ )  
+
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F7aeHoon%2Fhit-counter&count_bg=%23FF2A4B&title_bg=%23444444&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
  
 #### 🛠️ Tech
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=UIkit&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="22"/> 
