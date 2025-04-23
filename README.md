@@ -1,4 +1,4 @@
-### Hi There 👋 <br> I'm 7aeHoon  
+### Hi There 👋🏻 <br> I'm 7aeHoon  
 
 > I'm currently interested in iOS Development.    
 > I enjoy learning new things and connecting with people.    
