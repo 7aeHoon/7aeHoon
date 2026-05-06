@@ -13,9 +13,7 @@
 #### 💌 Contacts
 <a href="mailto:stitch8971@gachon.ac.kr">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="22">
-</a> <a href="mailto:kttyj000@naver.com">
+</a>
+<a href="mailto:kttyj000@naver.com">
   <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Badge" height="22">
 </a>
-
-#### ✨ Stats
-<img src="https://github-readme-stats.vercel.app/api?username=7aeHoon&show_icons=true&theme=dracula" height="130" /> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stitch8971" height="130"/>
