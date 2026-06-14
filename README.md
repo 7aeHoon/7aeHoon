@@ -11,7 +11,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,swift" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,swift&theme=light" />
   </a>
 </p>
 
@@ -21,6 +21,6 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,spring,reactivex," />
+    <img src="https://skillicons.dev/icons?i=mysql,spring,reactivex&theme=light" />
   </a>
 </p>
