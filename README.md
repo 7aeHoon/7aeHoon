@@ -3,7 +3,7 @@
 > I'm currently interested in iOS Development.    
 > I enjoy learning new things and connecting with people.    
 >
-> Dept. Computer Science & Engineering. (2021.03 ~ )
+> Dept. Computer Science & Engineering. (2021.03 ~ 2026.02)
 
 
 
