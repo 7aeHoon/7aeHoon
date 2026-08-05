@@ -21,6 +21,6 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,spring,reactivex&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,spring,docker,raspberrypi,reactivex&theme=light" />
   </a>
 </p>
