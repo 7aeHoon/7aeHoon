@@ -1,10 +1,10 @@
 #### Hi There 👋🏻 <br> I'm 7aeHoon
-
 > Focused on understanding underlying principles and crafting pragmatic system designs.  
 > Passionate about building stable, maintainable, and reliable backend systems.
 
-#### Tech Stack
+---
 
+#### Tech Stack
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23F54A2A.svg?style=flat-square&logo=swift&logoColor=white)
 
