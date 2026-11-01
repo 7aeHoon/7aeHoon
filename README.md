@@ -24,12 +24,3 @@
 ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846.svg?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-
-#### Algorithm & Problem Solving
-
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=stitch8971)](https://solved.ac/stitch8971/)
-
-
-<a href="https://github.com/git-goods/gitanimals">
-  <img src="https://render.gitanimals.org/farms/7aeHoon"/>
-</a>
