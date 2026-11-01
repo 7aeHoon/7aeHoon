@@ -28,3 +28,8 @@
 #### Algorithm & Problem Solving
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=stitch8971)](https://solved.ac/stitch8971/)
+
+
+<a href="https://github.com/git-goods/gitanimals">
+  <img src="https://render.gitanimals.org/farms/7aeHoon"/>
+</a>
