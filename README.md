@@ -25,9 +25,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 
-#### Certifications
+#### Algorithm & Problem Solving
 
-- Engineer Information Processing (정보처리기사)
-- SQLD
-- ADsP
-- Linux Master Level 2
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=stitch8971)](https://solved.ac/stitch8971/)
